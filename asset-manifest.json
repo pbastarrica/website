@@ -1,14 +1,14 @@
 {
-  "main.css": "/uk&france2019/static/css/main.428b2321.chunk.css",
-  "main.js": "/uk&france2019/static/js/main.fb6a5daa.chunk.js",
-  "main.js.map": "/uk&france2019/static/js/main.fb6a5daa.chunk.js.map",
-  "static/js/1.3f956256.chunk.js": "/uk&france2019/static/js/1.3f956256.chunk.js",
-  "static/js/1.3f956256.chunk.js.map": "/uk&france2019/static/js/1.3f956256.chunk.js.map",
-  "runtime~main.js": "/uk&france2019/static/js/runtime~main.46782993.js",
-  "runtime~main.js.map": "/uk&france2019/static/js/runtime~main.46782993.js.map",
-  "static/media/App.css": "/uk&france2019/static/media/image3.99792ff3.jpg",
-  "static/css/main.428b2321.chunk.css.map": "/uk&france2019/static/css/main.428b2321.chunk.css.map",
-  "index.html": "/uk&france2019/index.html",
-  "precache-manifest.5a88460b5c2b8ff7792c83a94a145b64.js": "/uk&france2019/precache-manifest.5a88460b5c2b8ff7792c83a94a145b64.js",
-  "service-worker.js": "/uk&france2019/service-worker.js"
+  "main.css": "/uk-france2019/static/css/main.eecab4ba.chunk.css",
+  "main.js": "/uk-france2019/static/js/main.3dbea23b.chunk.js",
+  "main.js.map": "/uk-france2019/static/js/main.3dbea23b.chunk.js.map",
+  "static/js/1.3f956256.chunk.js": "/uk-france2019/static/js/1.3f956256.chunk.js",
+  "static/js/1.3f956256.chunk.js.map": "/uk-france2019/static/js/1.3f956256.chunk.js.map",
+  "runtime~main.js": "/uk-france2019/static/js/runtime~main.28192b72.js",
+  "runtime~main.js.map": "/uk-france2019/static/js/runtime~main.28192b72.js.map",
+  "static/media/App.css": "/uk-france2019/static/media/image3.99792ff3.jpg",
+  "static/css/main.eecab4ba.chunk.css.map": "/uk-france2019/static/css/main.eecab4ba.chunk.css.map",
+  "index.html": "/uk-france2019/index.html",
+  "precache-manifest.313a83452db68bcc13c5e5791f8e95f1.js": "/uk-france2019/precache-manifest.313a83452db68bcc13c5e5791f8e95f1.js",
+  "service-worker.js": "/uk-france2019/service-worker.js"
 }
