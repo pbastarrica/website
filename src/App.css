@@ -1,32 +1,105 @@
 .App {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 60px;
   text-align: center;
+  position: absolute;
+  margin-top: 1%;
+  margin-left:40%;
+  color: #fff;
+  text-shadow: 1px 1px rgb(0, 0, 0);
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.App-title {
+  font-size: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds, .Days {
+  display: inline;
+  position: relative;
+  margin: 10px;
+}
+
+.time-days{
+  margin-top: -2%;
+  margin-left:12%;
+  font-size: 15px;
+  position: absolute;
+  }
+ .time-hours {
+  margin-top: -2%;
+  margin-left: 38.5%;
+  font-size: 15px;
+  position: absolute;
+  }
+  .time-minutes{
+    margin-top: -2%;
+    margin-left: 59%;
+    font-size: 15px;
+    position: absolute;
+    }
+  .time-seconds  {
+  margin-top: -2%;
+  margin-left: 82%;
+  font-size: 15px;
+  position: absolute;
+  }
+
+.center {
+  position: absolute;
+  margin: 7.2%;
+  margin-left: 48%;
+}
+body, #slider, .wrap, .slide-content{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.wrap{position: relative}
+
+.slide{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.slide1{background-image: url('image/image1.jpg')}
+.slide2{background-image: url('image/image2.jpg')}
+.slide3{background-image: url('image/image3.jpg')}
+
+.slide-content{
+  position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  text-align: center;
+}
+.slide-content span{
+  font-size:5rem;
+  color: #fff;
+}
+.arrow{
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -50px;
+  width: 0;
+  height: 0;
+  border-style: solid;
 }
 
-.App-link {
-  color: #61dafb;
+#arrow-left{
+  border-width: 30px 40px 30px 0;
+  border-color: transparent #fff transparent transparent;
+  left: 0;
+  margin-left:30px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#arrow-right{
+  border-width: 30px 0 30px 40px;
+  border-color: transparent transparent transparent #fff ;
+  right: 0;
+  margin-right:30px;
 }
