@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "eeeb229e5a4f7f87b063",
-    "url": "/uk-france2019/static/css/main.0ba3be45.chunk.css"
+    "revision": "e5a8b78fbd446b10b738",
+    "url": "/uk-france2019/static/css/main.bd7eb8ed.chunk.css"
   },
   {
-    "revision": "eeeb229e5a4f7f87b063",
-    "url": "/uk-france2019/static/js/main.eeeb229e.chunk.js"
+    "revision": "e5a8b78fbd446b10b738",
+    "url": "/uk-france2019/static/js/main.e5a8b78f.chunk.js"
   },
   {
     "revision": "3f956256f4a3ae2bb4a1",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/uk-france2019/static/media/image2.cf04da4b.jpg"
   },
   {
-    "revision": "5a1e72febc064fae1154e7224747dab5",
+    "revision": "7b815b6cffe6bf74975c564444490000",
     "url": "/uk-france2019/index.html"
   }
 ];
